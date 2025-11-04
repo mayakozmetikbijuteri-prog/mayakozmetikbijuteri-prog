@@ -148,3 +148,4 @@ Sorun yaşarsanız:
 2. Dosya yapısını kontrol edin
 3. Hata mesajlarını okuyun
 4. GitHub Issues'da sorun açın
+# Test degisiklik
