@@ -149,3 +149,4 @@ Sorun yaşarsanız:
 3. Hata mesajlarını okuyun
 4. GitHub Issues'da sorun açın
 # Test degisiklik
+# BASLAT.bat test basarili
